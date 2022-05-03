@@ -2,9 +2,9 @@
  * @Author       : XK
  * @Date         : 2022-05-03 21:53:38
  * @LastEditors  : XK
- * @LastEditTime : 2022-05-03 22:03:13
+ * @LastEditTime : 2022-05-03 22:09:17
  * @FilePath     : /calibre_nlc/readme.md
- * @Description  : 
+ * @Description  : Calibre metadata download plugin based on National Library of China
  * 
  * Copyright (c) 2022 by XK, All Rights Reserved.
 -->
